@@ -1,3 +1,13 @@
+[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
+[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
+[PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
+[PROJECT__URL]: https://landing-page-ssr.vercel.app/
+
+<h1 align="center" style="font-weight: bold;">Landing Page</h1>
+
+![angular][ANGULAR__BADGE]
+![typescript][TYPESCRIPT__BADGE]
+
 # LandingPage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
