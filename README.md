@@ -10,6 +10,9 @@
 
 # LandingPage
 
+![landing-page](https://github.com/camilacoutodeoliveira/langing-page/assets/27986336/81489e4c-5f99-48db-88f3-c5f26da431f5)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
 ## Development server
